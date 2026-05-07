@@ -1,0 +1,7 @@
+[project]
+name = "mpv-playlist-maker"
+version = "0.1.0"
+description = "Playlist maker for MPV"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
